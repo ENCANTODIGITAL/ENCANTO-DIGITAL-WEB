@@ -23,7 +23,7 @@ El sitio web cuenta con:
 El sitio se despliega automáticamente mediante **GitHub Pages**.
 
 ### 👨‍💻 Autor
-Creado por **Leonardo**, fundador y director de ENCANTO DIGITAL SAC.
+Creado por **Leonardo   Bermudez**, fundador y director de ENCANTO DIGITAL SAC.
 
 > Nota: Algunas partes de este código serán reutilizadas en otros proyectos de mi autoría si lo considero necesario.  
 > Todo el contenido ha sido adaptado específicamente para la identidad de ENCANTO DIGITAL.
@@ -53,7 +53,7 @@ The website includes:
 The site is automatically deployed using **GitHub Pages**.
 
 ### 👨‍💻 Author
-Created by **Leonardo**, founder and director of ENCANTO DIGITAL SAC.
+Created by **Leonardo Bermudez**, founder and director of ENCANTO DIGITAL SAC.
 
 > Note: Some parts of this code may be reused in other projects of my authorship if I consider it necessary.  
 > All content has been specifically adapted to the identity of ENCANTO DIGITAL.
