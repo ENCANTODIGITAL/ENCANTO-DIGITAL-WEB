@@ -9,7 +9,7 @@ El sitio está publicado en: [https://www.encantodigital.com](https://www.encant
 
 ### 🛠️ Tecnologías utilizadas
 - HTML5
-- CSS
+- CSS3
 - JavaScript
 
 ### 📌 Descripción del sitio
